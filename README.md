@@ -4,7 +4,7 @@ Hello! I'm Edwin, a third-year Computer Science and Artificial Intelligence stud
 ---
 
 ### 🏢 Note to Employers
-Some of my repositories are marked as **private** to prevent potential coursework plagiarism issues. If you are interested in reviewing them, I would be happy to provide private access upon request.
+Many of my repositories are marked as **private** to prevent potential coursework plagiarism issues. If you are interested in reviewing them, I would be happy to provide private access upon request.
 
 ---
 
