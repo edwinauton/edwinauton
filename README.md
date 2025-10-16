@@ -10,9 +10,9 @@ Some of my repositories are marked as **private** to prevent potential coursewor
 
 ### 📊 GitHub Statistics ([edwinauton](https://github.com/edwinauton))
 <div>
-  <img src="https://edwinauton-github-stats.vercel.app/api?username=edwinauton&theme=dark&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true"
+  <img src="https://edwinauton-github-stats.vercel.app/api?username=edwinauton&theme=github_dark&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true"
        style="height: 200px; object-fit: contain;" hspace="10"/>
-  <img src="https://edwinauton-github-stats.vercel.app/api/top-langs?username=edwinauton&theme=dark&hide_progress=true&langs_count=10&hide=rust,mako&hide_title=true"
+  <img src="https://edwinauton-github-stats.vercel.app/api/top-langs?username=edwinauton&theme=github_dark&hide_progress=true&langs_count=10&hide=rust,mako&hide_title=true"
        style="height: 200px; object-fit: contain;" hspace="10"/>
 </div>
 
@@ -21,6 +21,6 @@ Some of my repositories are marked as **private** to prevent potential coursewor
 ### 📊 GitHub Statistics ([QuantumXenon](https://github.com/QuantumXenon))
 I also have a second GitHub accountfor non-university projects.
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=quantumxenon&theme=dark&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true"
+  <img src="https://github-readme-stats.vercel.app/api?username=quantumxenon&theme=github_dark&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true"
        style="height: 200px; object-fit: contain;" hspace="10"/>
 </div>
