@@ -4,39 +4,6 @@ Hello! I'm Edwin - a third year Computer Science and Artificial Intelligence stu
 ### 🏢 Note to Employers
 I also have many projects marked as 'private' to avoid coursework plagarism issues. Please contact me if you review them privately.
 
-### 🎓 Course Modules
-<details>
-  <summary><b>Third Year</b></summary>
-  
-  - Individual Project
-  - Advanced Computer Graphics
-  - Advanced Computer Vision
-  - Natural Language Processing
-  - Reinforcement Learning
-</details>
-
-<details>
-  <summary><b>Second Year</b></summary>
-  
-  - Software Engineering
-  - Algorithms and Complexity
-  - Machine Learning
-  - Visual Computing
-  - Human-Computer Interaction 1
-  - Artificial Intelligence 2
-  - Foundations and Frontiers of Machine Learning
-</details>
-
-<details>
-  <summary><b>First Year</b></summary>
-  
-  - Artificial Intelligence 1
-  - Computer Systems Architectures
-  - Programming 1 & 2
-  - Discrete Mathematics and Databases
-  - Mathematics for Computation
-</details>
-
 ### 📊 GitHub Statistics ([edwinauton](github.com/edwinauton))
 <div>
   <img src="https://edwinauton-github-stats.vercel.app/api?username=edwinauton&theme=dark&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true"
