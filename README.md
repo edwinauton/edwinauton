@@ -1,5 +1,5 @@
-### 👋 Introduction
-Hello! I'm Edwin, a third-year Computer Science and Artificial Intelligence student at the University of Bath in the United Kingdom.
+### 👋 Hello!
+I'm Edwin, a third-year Computer Science and Artificial Intelligence student at the University of Bath in the United Kingdom.
 
 ---
 
@@ -28,4 +28,8 @@ This is my secondary GitHub account, used for non-university projects.
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edwin-auton)
+<p align="center">
+  <a href="https://www.linkedin.com/in/edwin-auton">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge" />
+  </a>
+</p>
