@@ -1,7 +1,10 @@
 ### 👋 Introduction
 Hello! I'm Edwin - a third year Computer Science and Artificial Intelligence student at the University of Bath.
 
-### 🎓 Modules
+### 🏢 Note to Employers
+I also have many projects marked as 'private' to avoid coursework plagarism issues. Please contact me if you review them privately.
+
+### 🎓 Course Modules
 <details>
   <summary><b>Third Year</b></summary>
   
@@ -34,13 +37,17 @@ Hello! I'm Edwin - a third year Computer Science and Artificial Intelligence stu
   - Mathematics for Computation
 </details>
 
-### 📊 GitHub Statistics
+### 📊 GitHub Statistics ([edwinauton](github.com/edwinauton))
 <div>
-  <img src="https://edwinauton-github-stats.vercel.app/api?username=edwinauton&theme=dark&show_icons=true&include_all_commits=true&hide_rank=true"
+  <img src="https://edwinauton-github-stats.vercel.app/api?username=edwinauton&theme=dark&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true"
        style="height: 200px; object-fit: contain;" hspace="10"/>
-  <img src="https://edwinauton-github-stats.vercel.app/api/top-langs?username=edwinauton&theme=dark&hide_progress=true&langs_count=10&hide=rust,mako"
+  <img src="https://edwinauton-github-stats.vercel.app/api/top-langs?username=edwinauton&theme=dark&hide_progress=true&langs_count=8&hide=rust,mako&"
        style="height: 200px; object-fit: contain;" hspace="10"/>
 </div>
 
-### 🏢 Employers
-I have many more projects that I cannot share publicly due coursework plagarism concerns. Please contact me if you are interested to see them, and I can invite you as a colaborator.
+### 📊 GitHub Statistics ([QuantumXenon](github.com/QuantumXenon))
+I also have a second GitHub account which I use for non-university projects.
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=quantumxenon&theme=dark&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true"
+       style="height: 200px; object-fit: contain;" hspace="10"/>
+</div>
