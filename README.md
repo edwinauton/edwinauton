@@ -13,7 +13,7 @@ Many of my repositories are marked as **private** to prevent potential coursewor
   <img src="https://edwinauton-github-stats.vercel.app/api?username=edwinauton&theme=github_dark&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true"
        style="height: 150px;" />
   &nbsp;
-  <img src="https://edwinauton-github-stats.vercel.app/api/top-langs?username=edwinauton&theme=github_dark&hide_progress=true&langs_count=10&hide=rust,mako&hide_title=true"
+  <img src="https://edwinauton-github-stats.vercel.app/api/top-langs?username=edwinauton&theme=github_dark&hide_progress=true&langs_count=10&hide=rust,mako,bibtex%20style,html,css&hide_title=true"
        style="height: 150px;" />
 </div>
 
