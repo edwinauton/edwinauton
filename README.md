@@ -25,11 +25,3 @@ This is my secondary GitHub account, used for non-university projects.
   <img src="https://edwinauton-github-stats.vercel.app/api?username=quantumxenon&theme=github_dark&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true"
        style="height: 150px;" />
 </div>
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/edwin-auton">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge" />
-  </a>
-</p>
