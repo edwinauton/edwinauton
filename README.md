@@ -1,10 +1,6 @@
 ### 👋 Hello!
-I'm Edwin, a third-year Computer Science and Artificial Intelligence student at the University of Bath in the United Kingdom.
-
----
-
-### 🏢 Note to Employers
-Many of my repositories are marked as **private** to prevent potential coursework plagiarism issues. If you are interested in reviewing them, I would be happy to provide private access upon request.
+I'm Edwin, a Computer Science and Artificial Intelligence student at the University of Bath in the United Kingdom. 
+> I'm currently on placement at Sound&Vision Technologies in Osaka, Japan.
 
 ---
 
